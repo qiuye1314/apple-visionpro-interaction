@@ -1,0 +1,24 @@
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= main.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= build_unit_599c378fd2a5.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= build_unit_a148a6f12a0c.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= build_unit_1ce9039f45b3.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= build_unit_25688f0c6115.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= struct.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= VectorHelper.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= ReadGame.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui_draw.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui_tables.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui_tricks.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui_widgets.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui_impl_android.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui_freetype.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui_impl_opengl3.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui_impl_vulkan.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= imgui_image.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= TouchHelperA.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= VulkanUtils.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= vulkan_wrapper.cpp
+[arm64-v8a] Compile++      : lsrael_DrawOnly_1_39.sh <= stb_image.cpp
+[arm64-v8a] Executable     : lsrael_DrawOnly_1_39.sh
+[arm64-v8a] Install        : lsrael_DrawOnly_1_39.sh => libs/arm64-v8a/lsrael_DrawOnly_1_39.sh
